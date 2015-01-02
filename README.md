@@ -89,7 +89,7 @@ bundle
 app/assets/javascripts/application.js
 
 ```
-//= require jquery.data-role-block
+#= require jquery.data-role-block
 ```
 
 ## MIT license
